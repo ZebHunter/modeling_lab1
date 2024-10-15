@@ -1,0 +1,4 @@
+(executable
+ (public_name mod_lab1)
+ (name main)
+ (libraries mod_lab1 plplot))
